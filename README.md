@@ -6,6 +6,6 @@ https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-w
 
 [Link to other page: pages/page1.md](pages/page1.md)
 
-
+![tux image](images/tux.png)
 
 
