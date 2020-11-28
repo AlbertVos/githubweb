@@ -11,7 +11,7 @@ https://guides.github.com/features/mastering-markdown/
 ![tux image](images/tux.png)
 
 
-(https://github.github.com/gfm/)[GitHub Flavored Markdown Spec]
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/about-writing-and-formatting-on-github
 
